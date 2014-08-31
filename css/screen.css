@@ -473,7 +473,7 @@ article.testimonials {
         width: 19px; }
       article.testimonials .testimonial blockquote:after {
         content: "\201D";
-        font-size: 4em;
+        font-size: 21px;
         position: absolute;
         top: 3px;
         left: 15px; }
@@ -697,7 +697,6 @@ article.faqs {
   padding: 45px 0 46px 0 !important;
   color: #3d4c52; }
   .why-can-you-track .video-holder {
-    outline: 1px solid;
     height: 280px;
     background: url(../img/video-holder.png) no-repeat center center;
     -webkit-background-size: 100% 100%;
