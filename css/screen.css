@@ -20,8 +20,8 @@
   font-weight: normal;
   font-style: normal; }
 
-.icon, .icon-block-whitearrow, .icon-button-arrow, .icon-circle_bottom_arrow, .icon-comment_icon, .icon-long_arrow, .icon-money-small, .icon-orange_arrow, .icon-orange_list_arrow, .icon-orange_minus_icon, .icon-orange_plus_icon, .icon-paper-small, .icon-phone, .icon-plus_icon, .icon-stopwatch-small, .icon-stripe-after, .icon-stripe-before, .icon-top-quote-before, .icon-white-check-ok, .icon-women-small, article.about .image-row .col-xs-4.with-arrow:after, article.why-us .bold-orange-arrows li:after, article.testimonials .testimonial blockquote:before, article.faqs .container:after, article.faqs ul.with-arrows li:before, .page-header-2 .arrows li:before, .how-it-works-gray .with-orange-arrows li:before, .pricing .pricing-row .blue-coin:after, .pricing .pricing-row .orange-price:before, .free-shipping .container:after {
-  background: url('../img/icon-s8f43a7f157.png') no-repeat; }
+.icon, .icon-block-whitearrow, .icon-button-arrow, .icon-car, .icon-circle_bottom_arrow, .icon-comment_icon, .icon-long_arrow, .icon-money-small, .icon-orange_arrow, .icon-orange_list_arrow, .icon-orange_minus_icon, .icon-orange_plus_icon, .icon-paper-small, .icon-phone, .icon-plus_icon, .icon-stopwatch-small, .icon-stripe-after, .icon-stripe-before, .icon-top-quote-before, .icon-white-check-ok, .icon-women-small, article.about .image-row .col-xs-4.with-arrow:after, article.why-us .bold-orange-arrows li:after, article.testimonials .testimonial blockquote:before, article.faqs .container:after, article.faqs ul.with-arrows li:before, .page-header-2 .arrows li:before, .how-it-works-gray .with-orange-arrows li:before, .pricing .pricing-row .blue-coin:after, .pricing .pricing-row .orange-price:before, .free-shipping .container:after {
+  background: url('../img/icon-sfd81f0adba.png') no-repeat; }
 
 .icon-block-whitearrow {
   background-position: 0 0;
@@ -33,92 +33,97 @@
   height: 21px;
   width: 22px; }
 
-.icon-circle_bottom_arrow {
+.icon-car {
   background-position: -444px 0;
+  height: 33px;
+  width: 118px; }
+
+.icon-circle_bottom_arrow {
+  background-position: -662px 0;
   height: 35px;
   width: 56px; }
 
 .icon-comment_icon {
-  background-position: -600px 0;
+  background-position: -818px 0;
   height: 19px;
   width: 22px; }
 
 .icon-long_arrow {
-  background-position: -722px 0;
+  background-position: -940px 0;
   height: 32px;
   width: 80px; }
 
 .icon-money-small {
-  background-position: -902px 0;
+  background-position: -1120px 0;
   height: 47px;
   width: 50px; }
 
 .icon-orange_arrow {
-  background-position: -1052px 0;
+  background-position: -1270px 0;
   height: 18px;
   width: 22px; }
 
 .icon-orange_list_arrow {
-  background-position: -1174px 0;
+  background-position: -1392px 0;
   height: 11px;
   width: 14px; }
 
 .icon-orange_minus_icon {
-  background-position: -1288px 0;
+  background-position: -1506px 0;
   height: 18px;
   width: 18px; }
 
 .icon-orange_plus_icon {
-  background-position: -1406px 0;
+  background-position: -1624px 0;
   height: 18px;
   width: 18px; }
 
 .icon-paper-small {
-  background-position: -1524px 0;
+  background-position: -1742px 0;
   height: 71px;
   width: 51px; }
 
 .icon-phone {
-  background-position: -1675px 0;
+  background-position: -1893px 0;
   height: 37px;
   width: 47px; }
 
 .icon-plus_icon {
-  background-position: -1822px 0;
+  background-position: -2040px 0;
   height: 14px;
   width: 14px; }
 
 .icon-stopwatch-small {
-  background-position: -1936px 0;
+  background-position: -2154px 0;
   height: 68px;
   width: 54px; }
 
 .icon-stripe-after {
-  background-position: -2090px 0;
+  background-position: -2308px 0;
   height: 93px;
   width: 49px; }
 
 .icon-stripe-before {
-  background-position: -2239px 0;
+  background-position: -2457px 0;
   height: 93px;
   width: 47px; }
 
 .icon-top-quote-before {
-  background-position: -2386px 0;
+  background-position: -2604px 0;
   height: 12px;
   width: 19px; }
 
 .icon-white-check-ok {
-  background-position: -2505px 0;
+  background-position: -2723px 0;
   height: 25px;
   width: 30px; }
 
 .icon-women-small {
-  background-position: -2635px 0;
+  background-position: -2853px 0;
   height: 68px;
   width: 53px; }
 
-.icon, .icon-block-whitearrow, .icon-button-arrow, .icon-circle_bottom_arrow, .icon-comment_icon, .icon-long_arrow, .icon-money-small, .icon-orange_arrow, .icon-orange_list_arrow, .icon-orange_minus_icon, .icon-orange_plus_icon, .icon-paper-small, .icon-phone, .icon-plus_icon, .icon-stopwatch-small, .icon-stripe-after, .icon-stripe-before, .icon-top-quote-before, .icon-white-check-ok, .icon-women-small, article.about .image-row .col-xs-4.with-arrow:after, article.why-us .bold-orange-arrows li:after, article.testimonials .testimonial blockquote:before, article.faqs .container:after, article.faqs ul.with-arrows li:before, .page-header-2 .arrows li:before, .how-it-works-gray .with-orange-arrows li:before, .pricing .pricing-row .blue-coin:after, .pricing .pricing-row .orange-price:before, .free-shipping .container:after {
+.icon, .icon-block-whitearrow, .icon-button-arrow, .icon-car, .icon-circle_bottom_arrow, .icon-comment_icon, .icon-long_arrow, .icon-money-small, .icon-orange_arrow, .icon-orange_list_arrow, .icon-orange_minus_icon, .icon-orange_plus_icon, .icon-paper-small, .icon-phone, .icon-plus_icon, .icon-stopwatch-small, .icon-stripe-after, .icon-stripe-before, .icon-top-quote-before, .icon-white-check-ok, .icon-women-small, article.about .image-row .col-xs-4.with-arrow:after, article.why-us .bold-orange-arrows li:after, article.testimonials .testimonial blockquote:before, article.faqs .container:after, article.faqs ul.with-arrows li:before, .page-header-2 .arrows li:before, .how-it-works-gray .with-orange-arrows li:before, .pricing .pricing-row .blue-coin:after, .pricing .pricing-row .orange-price:before, .free-shipping .container:after {
   display: inline-block; }
 
 /* Main elements */
@@ -400,7 +405,7 @@ article.about {
           position: absolute;
           top: 55px;
           right: -42px;
-          background-position: -722px 0;
+          background-position: -940px 0;
           height: 32px;
           width: 80px; }
           @media (max-width: 768px) {
@@ -440,7 +445,7 @@ article.why-us {
         position: absolute;
         top: -1px;
         left: -27px;
-        background-position: -1052px 0;
+        background-position: -1270px 0;
         height: 18px;
         width: 22px; }
 
@@ -468,7 +473,7 @@ article.testimonials {
         position: absolute;
         top: -12px;
         left: 20px;
-        background-position: -2386px 0;
+        background-position: -2604px 0;
         height: 12px;
         width: 19px; }
       article.testimonials .testimonial blockquote:after {
@@ -529,7 +534,7 @@ article.faqs {
         padding-right: 15px; } }
     article.faqs .container:after {
       content: '';
-      background-position: -444px 0;
+      background-position: -662px 0;
       height: 35px;
       width: 56px;
       position: absolute;
@@ -581,7 +586,7 @@ article.faqs {
         position: absolute;
         top: 4px;
         left: -23px;
-        background-position: -1174px 0;
+        background-position: -1392px 0;
         height: 11px;
         width: 14px; }
 
@@ -677,7 +682,7 @@ article.faqs {
       padding-left: 40px; }
       .page-header-2 .arrows li:before {
         content: '';
-        background-position: -2505px 0;
+        background-position: -2723px 0;
         height: 25px;
         width: 30px;
         position: absolute;
@@ -727,6 +732,16 @@ article.faqs {
       @media (max-width: 979px) {
         .why-can-you-track .with-video .with-text {
           padding: 30px 15px 20px 15px; } }
+    .why-can-you-track .with-video.second {
+      margin: 10px 0 0px 0; }
+      .why-can-you-track .with-video.second .with-text {
+        padding: 0px 0px 50px 31px; }
+        @media (max-width: 979px) {
+          .why-can-you-track .with-video.second .with-text {
+            padding: 10px 15px 30px 15px; }
+            .why-can-you-track .with-video.second .with-text .icon-car {
+              display: block;
+              margin: 10px auto; } }
 
 .how-it-works-gray {
   background: #f5f7f7;
@@ -752,7 +767,7 @@ article.faqs {
       margin-bottom: 16px; }
       .how-it-works-gray .with-orange-arrows li:before {
         content: '';
-        background-position: -1052px 0;
+        background-position: -1270px 0;
         height: 18px;
         width: 22px;
         position: absolute;
@@ -781,7 +796,7 @@ article.faqs {
         margin-bottom: 20px; } }
     .pricing .pricing-row .blue-coin:after {
       content: '';
-      background-position: -2239px 0;
+      background-position: -2457px 0;
       height: 93px;
       width: 47px;
       position: absolute;
@@ -839,7 +854,7 @@ article.faqs {
         border-radius: 60px; } }
     .pricing .pricing-row .orange-price:before {
       content: '';
-      background-position: -2090px 0;
+      background-position: -2308px 0;
       height: 93px;
       width: 49px;
       position: absolute;
@@ -890,7 +905,7 @@ article.faqs {
         padding-right: 15px; } }
     .free-shipping .container:after {
       content: '';
-      background-position: -444px 0;
+      background-position: -662px 0;
       height: 35px;
       width: 56px;
       position: absolute;
