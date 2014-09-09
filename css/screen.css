@@ -368,7 +368,8 @@ html.ie9 .form-holder {
   font-size: 1.8em;
   border: 1px solid #a8431b;
   border-top: 1px solid #eb5c22;
-  font-family: 'Proxima Black'; }
+  font-family: 'Proxima Bold';
+  font-weight: bold; }
   .btn-warning .icon-button-arrow {
     display: inline-block;
     vertical-align: middle;
@@ -562,7 +563,9 @@ article.faqs {
       margin-right: 5px;
       color: #3d4c52; }
     article.faqs .panel-heading a {
-      text-decoration: none; }
+      text-decoration: none;
+      font-family: 'Proxima Bold';
+      font-weight: bold; }
   article.faqs .panel-body {
     border: 0 !important;
     box-shadow: none;
