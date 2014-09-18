@@ -248,6 +248,34 @@ header.navbar {
 html.ie9 .form-holder {
   padding-bottom: 60px !important; }
 
+h1.decorated {
+  text-align: left;
+  color: #fff;
+  font-size: 3em;
+  line-height: 100%;
+  margin-top: 77px;
+  text-shadow: 2px 2px 2px #736b67; }
+  @media (max-width: 768px) {
+    h1.decorated {
+      margin-top: 20px;
+      margin-bottom: 30px; } }
+  h1.decorated span {
+    background: #693215;
+    background: rgba(0, 0, 0, 0.4);
+    display: inline-block;
+    margin-bottom: 8px;
+    padding: 9px 19px 7px 19px; }
+
+.header-top h1.decorated {
+  margin: 0 !important;
+  padding: 15px 0;
+  line-height: 120%;
+  background: #693215;
+  background: rgba(0, 0, 0, 0.4); }
+  @media (max-width: 768px) {
+    .header-top h1.decorated {
+      text-align: center; } }
+
 .page-header-top {
   padding: 92px 0 0px 0;
   margin: 0;
@@ -255,23 +283,6 @@ html.ie9 .form-holder {
   @media (max-width: 768px) {
     .page-header-top {
       padding-top: 30px; } }
-  .page-header-top h1.decorated {
-    text-align: left;
-    color: #fff;
-    font-size: 3em;
-    line-height: 100%;
-    margin-top: 77px;
-    text-shadow: 2px 2px 2px #736b67; }
-    @media (max-width: 768px) {
-      .page-header-top h1.decorated {
-        margin-top: 20px;
-        margin-bottom: 30px; } }
-    .page-header-top h1.decorated span {
-      background: #693215;
-      background: rgba(0, 0, 0, 0.4);
-      display: inline-block;
-      margin-bottom: 8px;
-      padding: 9px 19px 7px 19px; }
   .page-header-top .form-holder {
     color: #fff;
     padding-bottom: 96px; }
